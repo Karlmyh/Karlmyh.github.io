@@ -13,3 +13,9 @@ I am a Ph.D. candidate in statistics at [School of Statistics, Renmin University
 I have a broad interest in general topics of machine learning with a particular interest in **statistical learning theory** and **differential privacy**. 
 
 **Currently, I am actively seeking opportunities for research internships, visiting positions, or collaborations in these areas.**
+
+Contact
+------
+
+E-mail: yma@ruc.edu.cn, mayuhengkarl@gmail.com
+Phone & wechat +86 18852002575
