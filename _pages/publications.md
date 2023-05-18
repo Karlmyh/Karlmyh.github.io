@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research Interest"
 permalink: /publications/
 author_profile: true
 ---
@@ -16,7 +16,8 @@ Research Interest
 
 Thesis
 ------
-**Nonsmooth Nonconvex Compositions Optimization and Generalized Manifold Sampling** 
+
+- **Nonsmooth Nonconvex Compositions Optimization and Generalized Manifold Sampling** \\
 [Project repository](https://github.com/Karlmyh/ManifoldSampling)  Bachelor Thesis, Nanjing University
 
 
@@ -25,6 +26,9 @@ Publications
 
 
 Working Papers
+------
+
+Packages
 ------
 
 
