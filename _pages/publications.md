@@ -7,7 +7,7 @@ author_profile: true
 
 
 Research Interest
-======
+---
 
 - Machine Learning 
 - Statistical Learning Theory
@@ -15,24 +15,24 @@ Research Interest
 
 
 Thesis
-======
+---
 
 - **Nonsmooth Nonconvex Compositions Optimization and Generalized Manifold Sampling** \\
 [Project repository](https://github.com/Karlmyh/ManifoldSampling) &emsp;  Bachelor Thesis, Nanjing University
 
 
 Publications
-======
+---
 
 
 Working Papers
-======
+---
 
 Packages
-======
+---
 
 Awards
-======
+---
 
 
 <!-- {% if author.googlescholar %}
