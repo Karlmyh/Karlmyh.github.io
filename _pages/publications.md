@@ -13,7 +13,22 @@ Research Interest
 - Statistical Learning Theory
 - Differential Privacy
 
-{% if author.googlescholar %}
+
+Thesis
+------
+**Nonsmooth Nonconvex Compositions Optimization and Generalized Manifold Sampling** 
+[Project repository](https://github.com/Karlmyh/ManifoldSampling)  Bachelor Thesis, Nanjing University
+
+
+Publications
+------
+
+
+Working Papers
+------
+
+
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
@@ -21,4 +36,4 @@ Research Interest
 
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %} -->
