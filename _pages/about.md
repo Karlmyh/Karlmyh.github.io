@@ -17,4 +17,4 @@ I have a broad interest in general topics of machine learning with a particular 
 Contact
 ------
 - E-mail: yma@ruc.edu.cn, mayuhengkarl@gmail.com
-- Phone & wechat +86 18852002575
+- Phone & wechat 18852002575
