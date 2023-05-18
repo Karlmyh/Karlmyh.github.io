@@ -28,6 +28,8 @@ Publications
 Working Papers
 ---
 
+- **Decision Tree for Locally Private Estimation with Public Data**
+
 Packages
 ---
 
