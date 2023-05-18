@@ -1,8 +1,5 @@
 ---
-title: "Research Interest"
-collection: publications
-permalink:
-excerpt: 
+Research Interest
 ---
 
 - Machine Learning 
