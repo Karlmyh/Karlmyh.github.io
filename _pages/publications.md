@@ -36,9 +36,9 @@ Working Papers
 Packages
 ---
 
-- **NNDensity** in Python. \\ 
+- **NNDensity** in Python. \\
 [GitHub](https://github.com/Karlmyh/NNDensity)  [PyPI](https://pypi.org/project/NNDensity/)
-- **ExtraTree** in Python. \\ 
+- **ExtraTree** in Python. \\
 [GitHub](https://github.com/Karlmyh/ExtraTree)  [PyPI](https://pypi.org/project/ExtraTree/)
 - **RMusicdown** in R. \\
 [GitHub](https://github.com/Karlmyh/RMusicDown) 
