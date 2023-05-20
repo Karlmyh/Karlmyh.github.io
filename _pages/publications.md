@@ -28,13 +28,18 @@ Publications
 Working Papers
 ---
 
-- **Decision Tree for Locally Private Estimation with Public Data**
+- **Decision Tree for Locally Private Estimation with Public Data**. \\ **Y. Ma**, H. Zhang, Y. Cai, H. Yang 
+- **Differential Privacy via Randomized Sketching**. \\ **Y. Ma**, H. Yang 
 
 Packages
 ---
 
-Awards
----
+- **NNDensity** in Python. \\ [GitHub](https://github.com/Karlmyh/NNDensity)  [PyPI](https://pypi.org/project/NNDensity/)
+- **ExtraTree** in Python. \\ [GitHub](https://github.com/Karlmyh/ExtraTree)  [PyPI](https://pypi.org/project/ExtraTree/)
+- **RMusicdown** in R. \\ [GitHub](https://github.com/Karlmyh/RMusicDown) 
+
+
+
 
 
 <!-- {% if author.googlescholar %}
