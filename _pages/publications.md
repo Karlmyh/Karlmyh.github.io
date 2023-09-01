@@ -23,6 +23,7 @@ Thesis
 
 Publications
 ---
+\* for equal contribution
 - **Extrapolated Random Tree for Regression**. ICML 2023\\
 Cai, Y.\*, **Ma, Y.\***, Dong, Y., Yang, H.. 
 
