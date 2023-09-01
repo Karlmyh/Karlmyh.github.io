@@ -17,25 +17,25 @@ Research Interest
 Thesis
 ---
 
-- **Nonsmooth Nonconvex Compositions Optimization and Generalized Manifold Sampling** \\
+- Nonsmooth Nonconvex Compositions Optimization and Generalized Manifold Sampling \\
 [Project repository](https://github.com/Karlmyh/ManifoldSampling) &emsp;  Bachelor Thesis, Nanjing University
 
 
 Publications
 ---
 \* for equal contribution
-- **Extrapolated Random Tree for Regression**. ICML 2023\\
+- Extrapolated Random Tree for Regression. ICML 2023\\
 Cai, Y.\*, **Ma, Y.\***, Dong, Y., Yang, H.. 
 
 
 Working Papers
 ---
 
-- **Decision Tree for Locally Private Estimation with Public Data**. \\
+- Decision Tree for Locally Private Estimation with Public Data. \\
 **Ma Y.**, Zhang H., Cai Y., Yang H.
-- **Optimal Locally Private Nonparameteric Classification with Public Data**. \\
+- Optimal Locally Private Nonparameteric Classification with Public Data. \\
 **Ma Y.**, Yang H. 
-- **Differential Privacy via Randomized Sketching**. \\
+- Differential Privacy via Randomized Sketching. \\
 **Ma Y.**, Yang H. 
 
 Packages
