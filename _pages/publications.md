@@ -23,15 +23,19 @@ Thesis
 
 Publications
 ---
+- **Extrapolated Random Tree for Regression**. ICML 2023\\
+Cai, Y.\*, **Ma, Y.\***, Dong, Y., Yang, H.. 
 
 
 Working Papers
 ---
 
 - **Decision Tree for Locally Private Estimation with Public Data**. \\
-**Y. Ma**, H. Zhang, Y. Cai, H. Yang 
+**Ma Y.**, Zhang H., Cai Y., Yang H.
+- **Optimal Locally Private Nonparameteric Classification with Public Data**. \\
+**Ma Y.**, Yang H. 
 - **Differential Privacy via Randomized Sketching**. \\
-**Y. Ma**, H. Yang 
+**Ma Y.**, Yang H. 
 
 Packages
 ---
