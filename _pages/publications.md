@@ -28,7 +28,7 @@ Publications
 Yuchao Cai\*, **Yuheng Ma\***, Yiwei Dong, Hanfang Yang. \\
 [Paper](https://proceedings.mlr.press/v202/cai23d.html) &emsp; [Code](https://github.com/Karlmyh/ERTR)
 - Decision Tree for Locally Private Estimation with Public Data. NeurIPS 2023.\\
-**Yuheng Ma\***, Han Zhang, Yuchao Cai, Hanfang Yang. \\
+**Yuheng Ma**, Han Zhang, Yuchao Cai, Hanfang Yang. \\
  [Code](https://github.com/Karlmyh/LPDT)
 
 
