@@ -39,7 +39,7 @@ Working Papers
 Yuchao Cai, **Yuheng Ma**, Hanfang Yang, Hanyuan Hang.
 - Adaptive Weighted Nearest Neighbor for Density Estimation\\
 Yuchao Cai, **Yuheng Ma**, Hanfang Yang.
-- Optimal Locally Private Nonparameteric Classification with Public Data. \\
+- Optimal Locally Private Nonparametric Classification with Public Data. \\
 **Yuheng Ma**, Hanfang Yang. 
 - Differential Privacy via Randomized Sketching. \\
 **Yuheng Ma**, Hanfang Yang. 
