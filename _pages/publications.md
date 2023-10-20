@@ -35,9 +35,9 @@ Yuchao Cai\*, **Yuheng Ma\***, Yiwei Dong, Hanfang Yang. \\
 Working Papers
 ---
 
-- Bagged Regularized $k$-Distances for Anomaly Detection\\
+- Bagged Regularized $k$-Distances for Anomaly Detection.\\
 Yuchao Cai, **Yuheng Ma**, Hanfang Yang, Hanyuan Hang.
-- Adaptive Weighted Nearest Neighbor for Density Estimation\\
+- Adaptive Weighted Nearest Neighbor for Density Estimation.\\
 Yuchao Cai, **Yuheng Ma**, Hanfang Yang.
 - Optimal Locally Private Nonparametric Classification with Public Data. \\
 **Yuheng Ma**, Hanfang Yang. 
@@ -48,7 +48,7 @@ Packages
 ---
 
 
-- **LPDT** in Python\\
+- **LPDT** in Python.\\
 [GitHub](https://github.com/Karlmyh/LPDT)  [PyPI](https://pypi.org/project/LPDT/)
 - **NNDensity** in Python. \\
 [GitHub](https://github.com/Karlmyh/NNDensity)  [PyPI](https://pypi.org/project/NNDensity/)
