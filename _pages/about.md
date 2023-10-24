@@ -19,4 +19,4 @@ Contact
 - E-mail: yma@ruc.edu.cn, mayuhengkarl@gmail.com
 - Phone & wechat 18852002575
 
-{{ site.time | date: '%A, %B %e, %Y' }}
+Last updated on {{ site.time | date: '%A, %B %e, %Y' }}
