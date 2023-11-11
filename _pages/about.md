@@ -20,3 +20,14 @@ Contact
 - Phone & wechat 18852002575
 
 Last updated on {{ site.time | date: '%A, %B %e, %Y' }}
+
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-5ZH8RB1RV4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-5ZH8RB1RV4');
+</script>
