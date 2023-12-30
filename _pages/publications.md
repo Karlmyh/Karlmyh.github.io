@@ -29,7 +29,9 @@ Yuchao Cai\*, **Yuheng Ma\***, Yiwei Dong, Hanfang Yang. \\
 [Paper](https://proceedings.mlr.press/v202/cai23d.html) &emsp; [Code](https://github.com/Karlmyh/ERTR)
 - Decision Tree for Locally Private Estimation with Public Data. NeurIPS 2023.\\
 **Yuheng Ma**, Han Zhang, Yuchao Cai, Hanfang Yang. \\
- [Code](https://github.com/Karlmyh/LPDT)
+[Paper](https://openreview.net/forum?id=F5FVsfCxt8) &emsp; [Code](https://github.com/Karlmyh/LPDT)
+
+
 
 
 Working Papers
@@ -37,10 +39,12 @@ Working Papers
 
 - Bagged Regularized $k$-Distances for Anomaly Detection.\\
 Yuchao Cai, **Yuheng Ma**, Hanfang Yang, Hanyuan Hang.
+[Paper](https://arxiv.org/abs/2312.01046) &emsp; [Code](https://github.com/Karlmyh/NNDAD)
 - Adaptive Weighted Nearest Neighbor for Density Estimation.\\
 Yuchao Cai, **Yuheng Ma**, Hanfang Yang.
 - Optimal Locally Private Nonparametric Classification with Public Data. \\
 **Yuheng Ma**, Hanfang Yang. 
+[Paper](https://arxiv.org/abs/2311.11369) &emsp; [Code](https://github.com/Karlmyh/LPCT)
 - Differential Privacy via Randomized Sketching. \\
 **Yuheng Ma**, Hanfang Yang. 
 
