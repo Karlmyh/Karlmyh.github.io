@@ -37,6 +37,8 @@ Yuchao Cai\*, **Yuheng Ma\***, Yiwei Dong, Hanfang Yang. \\
 Working Papers
 ---
 
+- Better Locally Private Sparse Estimation Given Multiple Samples Per User. \\
+**Yuheng Ma**, Ke Jia, Feifei Wang, Hanfang Yang.\\
 - Bagged Regularized $k$-Distances for Anomaly Detection.\\
 Yuchao Cai, **Yuheng Ma**, Hanfang Yang, Hanyuan Hang.\\
 [Paper](https://arxiv.org/abs/2312.01046) &emsp; [Code](https://github.com/Karlmyh/NNDAD)
@@ -47,6 +49,7 @@ Yuchao Cai, **Yuheng Ma**, Hanfang Yang.
 [Paper](https://arxiv.org/abs/2311.11369) &emsp; [Code](https://github.com/Karlmyh/LPCT)
 - Differential Privacy via Randomized Sketching. \\
 **Yuheng Ma**, Hanfang Yang. 
+
 
 Packages
 ---
