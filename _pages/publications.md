@@ -37,8 +37,7 @@ Yuchao Cai\*, **Yuheng Ma\***, Yiwei Dong, Hanfang Yang. \\
 Working Papers
 ---
 
-- Better Locally Private Sparse Estimation Given Multiple Samples Per User. \\
-**Yuheng Ma**, Ke Jia, Hanfang Yang.
+
 - Bagged Regularized $k$-Distances for Anomaly Detection.\\
 Yuchao Cai, **Yuheng Ma**, Hanfang Yang, Hanyuan Hang.\\
 [Paper](https://arxiv.org/abs/2312.01046) &emsp; [Code](https://github.com/Karlmyh/NNDAD)
