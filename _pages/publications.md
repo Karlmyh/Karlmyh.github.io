@@ -26,13 +26,13 @@ Publications
 \* for equal contribution
 - Extrapolated Random Tree for Regression. *ICML 2023*.\\
 Yuchao Cai\*, **Yuheng Ma\***, Yiwei Dong, Hanfang Yang. \\
-[Paper](https://proceedings.mlr.press/v202/cai23d.html) &emsp; [Code](https://github.com/Karlmyh/ERTR) &emsp; [GitHub](https://github.com/Karlmyh/ExtraTree) 
+[Paper](https://proceedings.mlr.press/v202/cai23d.html) &emsp; [Code](https://github.com/Karlmyh/ERTR) &emsp; [Package](https://github.com/Karlmyh/ExtraTree) 
 - Decision Tree for Locally Private Estimation with Public Data. *NeurIPS 2023*.\\
 **Yuheng Ma**, Han Zhang, Yuchao Cai, Hanfang Yang. \\
 [Paper](https://openreview.net/forum?id=F5FVsfCxt8) &emsp; [Code](https://github.com/Karlmyh/LPDT) &emsp; [Package](https://github.com/Karlmyh/LPDT)
-- Better Locally Private Sparse Estimation Given Multiple Samples Per User. *ICML 2024*\\
+- Better Locally Private Sparse Estimation Given Multiple Samples Per User. *ICML 2024*.\\
 **Yuheng Ma**, Ke Jia, Hanfang Yang. 
-- Optimal Locally Private Nonparametric Classification with Public Data. *JMLR*\\
+- Optimal Locally Private Nonparametric Classification with Public Data. *JMLR*.\\
 **Yuheng Ma**, Hanfang Yang. \\
 [Paper](https://arxiv.org/abs/2311.11369) &emsp; [Code](https://github.com/Karlmyh/LPCT)
 
