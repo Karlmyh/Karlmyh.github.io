@@ -50,8 +50,8 @@ Yuchao Cai, **Yuheng Ma**, Hanfang Yang.\\
 - Locally Private Estimation with Public Features.\\
 **Yuheng Ma**, Ke Jia, Hanfang Yang. 
 - Differential Privacy via Randomized Sketching. \\
-**Yuheng Ma**, Hanfang Yang. 
-
+**Yuheng Ma**, Hanfang Yang.\\
+[Paper](http://Karlmyh.github.io/files/DPRS.pdf)
 
 
 
