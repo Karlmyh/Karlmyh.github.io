@@ -49,9 +49,7 @@ Yuchao Cai, **Yuheng Ma**, Hanfang Yang.\\
 [Package](https://github.com/Karlmyh/NNDensity) 
 - Locally Private Estimation with Public Features.\\
 **Yuheng Ma**, Ke Jia, Hanfang Yang. 
-- Differential Privacy via Randomized Sketching. \\
-**Yuheng Ma**, Hanfang Yang.\\
-[Paper](http://Karlmyh.github.io/files/DPRS.pdf)
+
 
 
 
