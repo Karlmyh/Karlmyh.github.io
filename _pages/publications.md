@@ -43,7 +43,7 @@ Yuchao Cai, **Yuheng Ma**, Hanfang Yang, Hanyuan Hang.\\
 Yuchao Cai, **Yuheng Ma**, Hanfang Yang.\\
 [Package](https://github.com/Karlmyh/NNDensity) 
 - Locally Private Estimation with Public Features.\\
-**Yuheng Ma**, Ke Jia, Hanfang Yang. 
+**Yuheng Ma**, Ke Jia, Hanfang Yang. \\
 [Paper](https://arxiv.org/pdf/2405.13481)
 
 
