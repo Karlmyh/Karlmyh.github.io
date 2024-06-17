@@ -14,12 +14,6 @@ Research Interest
 - Differential Privacy
 
 
-Thesis
----
-
-- Nonsmooth Nonconvex Compositions Optimization and Generalized Manifold Sampling \\
-[Project repository](https://github.com/Karlmyh/ManifoldSampling) &emsp;  Bachelor Thesis, Nanjing University
-
 
 Publications
 ---
@@ -31,10 +25,11 @@ Yuchao Cai\*, **Yuheng Ma\***, Yiwei Dong, Hanfang Yang. \\
 **Yuheng Ma**, Han Zhang, Yuchao Cai, Hanfang Yang. \\
 [Paper](https://openreview.net/forum?id=F5FVsfCxt8) &emsp; [Code](https://github.com/Karlmyh/LPDT) &emsp; [Package](https://github.com/Karlmyh/LPDT)
 - Better Locally Private Sparse Estimation Given Multiple Samples Per User. *ICML 2024*.\\
-**Yuheng Ma**, Ke Jia, Hanfang Yang. 
+**Yuheng Ma**, Ke Jia, Hanfang Yang. \\
+[Paper](https://openreview.net/pdf/64ce4a5e3f521f1c87173c2e69e4e1b7f60678ac.pdf) &emsp; [Code](https://github.com/Karlmyh/ULDP-SL)
 - Optimal Locally Private Nonparametric Classification with Public Data. *JMLR*.\\
 **Yuheng Ma**, Hanfang Yang. \\
-[Paper](https://arxiv.org/abs/2311.11369) &emsp; [Code](https://github.com/Karlmyh/LPCT)
+[Paper](https://jmlr.org/papers/volume25/23-1563/23-1563.pdf) &emsp; [Code](https://github.com/Karlmyh/LPCT)
 
 
 Working Papers
@@ -49,7 +44,7 @@ Yuchao Cai, **Yuheng Ma**, Hanfang Yang.\\
 [Package](https://github.com/Karlmyh/NNDensity) 
 - Locally Private Estimation with Public Features.\\
 **Yuheng Ma**, Ke Jia, Hanfang Yang. 
-
+[Paper](https://arxiv.org/pdf/2405.13481)
 
 
 
