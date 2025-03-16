@@ -9,9 +9,9 @@ author_profile: true
 Research Interest
 ---
 
-- Machine Learning 
 - Statistical Learning Theory
 - Differential Privacy
+- Algorithmic Stability
 
 
 
