@@ -29,7 +29,10 @@ Yuchao Cai\*, **Yuheng Ma\***, Yiwei Dong, Hanfang Yang. \\
 [Paper](https://openreview.net/pdf/64ce4a5e3f521f1c87173c2e69e4e1b7f60678ac.pdf) &emsp; [Code](https://github.com/Karlmyh/ULDP-SL)
 - Optimal Locally Private Nonparametric Classification with Public Data. *JMLR*.\\
 **Yuheng Ma**, Hanfang Yang. \\
-[Paper](https://jmlr.org/papers/volume25/23-1563/23-1563.pdf) &emsp; [Code](https://github.com/Karlmyh/LPCT)
+[Paper](https://jmlr.org/papers/volume25/23-1563/23-1563.pdf) &emsp; [Code](https://github.com/Karlmyh/LPCT) 
+- Locally Private Estimation with Public Features. *AISTATS 2025*.\\
+**Yuheng Ma**, Ke Jia, Hanfang Yang. \\
+[Paper](https://openreview.net/forum?id=4fhFayxBO5&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daistats.org%2FAISTATS%2F2025%2FConference%2FAuthors%23your-submissions)) &emsp; [Code](https://github.com/Karlmyh/LDP-PublicFeatures) 
 
 
 Working Papers
@@ -39,17 +42,16 @@ Working Papers
 - Bagged Regularized $k$-Distances for Anomaly Detection.\\
 Yuchao Cai, **Yuheng Ma**, Hanfang Yang, Hanyuan Hang.\\
 [Paper](https://arxiv.org/abs/2312.01046) &emsp; [Code](https://github.com/Karlmyh/NNDAD)
-- Adaptive Weighted Nearest Neighbor for Density Estimation.\\
-Yuchao Cai, **Yuheng Ma**, Hanfang Yang.\\
-[Package](https://github.com/Karlmyh/NNDensity) 
-- Locally Private Estimation with Public Features.\\
-**Yuheng Ma**, Ke Jia, Hanfang Yang. \\
-[Paper](https://arxiv.org/pdf/2405.13481)
+- Locally Private Nonparametric Contextual Multi-armed Bandits.\\
+**Yuheng Ma**, Feiyu Jiang, Zifeng Zhao, Hanfang Yang, Yi Yu.\\
+[Paper](https://arxiv.org/abs/2503.08098) 
 
 
 Services
 ---
-I review for ICML (2024), NeurIPS (2024). 
+\* for outstanding reviewer
+
+I review for ICML (2024, 2025), NeurIPS 2024*, AAAI 2025, ICLR 2025, AISTATS 2025, TMLR.
 
 
 
