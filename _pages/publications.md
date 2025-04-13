@@ -41,9 +41,7 @@ Working Papers
 ---
 
 
-- Bagged Regularized $k$-Distances for Anomaly Detection.\\
-Yuchao Cai, **Yuheng Ma**, Hanfang Yang, Hanyuan Hang.\\
-[Paper](https://arxiv.org/abs/2312.01046) &emsp; [Code](https://github.com/Karlmyh/NNDAD)
+
 - Locally Private Nonparametric Contextual Multi-armed Bandits.\\
 **Yuheng Ma**, Feiyu Jiang, Zifeng Zhao, Hanfang Yang, Yi Yu.\\
 [Paper](https://arxiv.org/abs/2503.08098) &emsp; [Code](https://github.com/Karlmyh/LDP-Contextual-MAB)
