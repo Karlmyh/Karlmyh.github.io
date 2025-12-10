@@ -20,7 +20,7 @@ Publications
 \* for equal contribution, \# for correspondence
 
 
-- PrAda-GAN: A Private Adaptive Generative Adversarial Network with Bayes Network Structure. *AAAI 2025*.\\
+- PrAda-GAN: A Private Adaptive Generative Adversarial Network with Bayes Network Structure. *AAAI 2026*.\\
 Ke Jia\*, **Yuheng Ma\***, Yang Li, Feifei Wang. \\
 [Paper](https://arxiv.org/abs/2511.07997) &emsp; [Code](https://github.com/JiaKekk/private-sparse-bayes)
 - Bagged Regularized k-Distances for Anomaly Detection. *JMLR 2025*.\\
