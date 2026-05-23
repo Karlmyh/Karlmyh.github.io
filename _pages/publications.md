@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 
-Research Interest
+Research Interests
 ---
 
 - Statistical Learning Theory
@@ -21,7 +21,7 @@ Publications
 \* for equal contribution, \# for correspondence
 
 
-- Feature Bagging Provides Stability. *International Conference on Machine Learning (ICML), 2026*.<br>
+- Feature Bagging Provides Stability. *ICML 2026*.<br>
 **Yuheng Ma**, Qiang Sun.
 - [PrAda-GAN: A Private Adaptive Generative Adversarial Network with Bayes Network Structure](https://arxiv.org/abs/2511.07997). *AAAI 2026*.<br>
 Ke Jia\*, **Yuheng Ma\***, Yang Li, Feifei Wang.
@@ -62,7 +62,7 @@ Services
 \* for outstanding reviewer
 
 Conference reviewer: ICML (2024, 2025, 2026\*), NeurIPS (2024\*, 2025), AAAI (2025, 2026), ICLR (2025, 2026), AISTATS (2025, 2026).<br>
-Journal reviewer: JMLR, Biometrika, TMLR.
+Journal reviewer: JMLR, Biometrika, Bernoulli, TMLR.
 
 
 
