@@ -12,6 +12,7 @@ Research Interest
 - Statistical Learning Theory
 - Differential Privacy
 - Algorithmic Stability
+- LLM Post-Training
 
 
 
@@ -20,30 +21,24 @@ Publications
 \* for equal contribution, \# for correspondence
 
 
-- PrAda-GAN: A Private Adaptive Generative Adversarial Network with Bayes Network Structure. *AAAI 2026*.\\
+- Feature Bagging Provides Stability. *International Conference on Machine Learning (ICML), 2026*.\\
+**Yuheng Ma**, Qiang Sun.
+- [PrAda-GAN: A Private Adaptive Generative Adversarial Network with Bayes Network Structure](https://arxiv.org/abs/2511.07997). *AAAI 2026*.\\
 Ke Jia\*, **Yuheng Ma\***, Yang Li, Feifei Wang. \\
-[Paper](https://arxiv.org/abs/2511.07997) &emsp; [Code](https://github.com/JiaKekk/private-sparse-bayes)
-- Bagged Regularized k-Distances for Anomaly Detection. *JMLR 2025*.\\
+- [Bagged Regularized k-Distances for Anomaly Detection](https://jmlr.org/papers/volume26/23-1519/23-1519.pdf). *JMLR 2025*.\\
 Yuchao Cai, Hanfang Yang\#, **Yuheng Ma**\#, Hanyuan Hang. \\
-[Paper](https://jmlr.org/papers/volume26/23-1519/23-1519.pdf) &emsp; [Code](https://github.com/Karlmyh/NNDAD)
-- ALTER: Augmentation for Large-Table-Based Reasoning. *NAACL 2025*.\\
+- [ALTER: Augmentation for Large-Table-Based Reasoning](https://openreview.net/forum?id=2o6XGCeI5q&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daclweb.org%2FNAACL%2F2025%2FConference%2FAuthors%23your-submissions)). *NAACL 2025*.\\
 Han Zhang, **Yuheng Ma**, Hanfang Yang. \\
-[Paper](https://openreview.net/forum?id=2o6XGCeI5q&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daclweb.org%2FNAACL%2F2025%2FConference%2FAuthors%23your-submissions)) &emsp; [Code](https://github.com/Hanzhang-lang/ALTER)
-- Locally Private Estimation with Public Features. *AISTATS 2025*.\\
+- [Locally Private Estimation with Public Features](https://openreview.net/forum?id=4fhFayxBO5&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daistats.org%2FAISTATS%2F2025%2FConference%2FAuthors%23your-submissions)). *AISTATS 2025*.\\
 **Yuheng Ma**, Ke Jia, Hanfang Yang. \\
-[Paper](https://openreview.net/forum?id=4fhFayxBO5&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3Daistats.org%2FAISTATS%2F2025%2FConference%2FAuthors%23your-submissions)) &emsp; [Code](https://github.com/Karlmyh/LDP-PublicFeatures) 
-- Optimal Locally Private Nonparametric Classification with Public Data. *JMLR 2024*.\\
+- [Optimal Locally Private Nonparametric Classification with Public Data](https://jmlr.org/papers/volume25/23-1563/23-1563.pdf). *JMLR 2024*.\\
 **Yuheng Ma**, Hanfang Yang. \\
-[Paper](https://jmlr.org/papers/volume25/23-1563/23-1563.pdf) &emsp; [Code](https://github.com/Karlmyh/LPCT) 
-- Better Locally Private Sparse Estimation Given Multiple Samples Per User. *ICML 2024*.\\
+- [Better Locally Private Sparse Estimation Given Multiple Samples Per User](https://openreview.net/pdf/64ce4a5e3f521f1c87173c2e69e4e1b7f60678ac.pdf). *ICML 2024*.\\
 **Yuheng Ma**, Ke Jia, Hanfang Yang. \\
-[Paper](https://openreview.net/pdf/64ce4a5e3f521f1c87173c2e69e4e1b7f60678ac.pdf) &emsp; [Code](https://github.com/Karlmyh/ULDP-SL)
-- Decision Tree for Locally Private Estimation with Public Data. *NeurIPS 2023*.\\
+- [Decision Tree for Locally Private Estimation with Public Data](https://openreview.net/forum?id=F5FVsfCxt8). *NeurIPS 2023*.\\
 **Yuheng Ma**, Han Zhang, Yuchao Cai, Hanfang Yang. \\
-[Paper](https://openreview.net/forum?id=F5FVsfCxt8) &emsp; [Code](https://github.com/Karlmyh/LPDT) 
-- Extrapolated Random Tree for Regression. *ICML 2023*.\\
+- [Extrapolated Random Tree for Regression](https://proceedings.mlr.press/v202/cai23d.html). *ICML 2023*.\\
 Yuchao Cai\*, **Yuheng Ma\***, Yiwei Dong, Hanfang Yang. \\
-[Paper](https://proceedings.mlr.press/v202/cai23d.html) &emsp; [Code](https://github.com/Karlmyh/ERTR)
 
 
 
@@ -56,9 +51,8 @@ Working Papers
 
 
 
-- Locally Private Nonparametric Contextual Multi-armed Bandits with Transfer Learning.\\
+- [Locally Private Nonparametric Contextual Multi-armed Bandits with Transfer Learning](https://arxiv.org/abs/2503.08098).\\
 **Yuheng Ma**, Feiyu Jiang, Zifeng Zhao, Hanfang Yang, Yi Yu.\\
-[Paper](https://arxiv.org/abs/2503.08098) &emsp; [Code](https://github.com/Karlmyh/LDP-Contextual-MAB)
 
 
 Services
