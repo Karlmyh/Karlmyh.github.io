@@ -53,13 +53,16 @@ Working Papers
 
 - [Locally Private Nonparametric Contextual Multi-armed Bandits with Transfer Learning](https://arxiv.org/abs/2503.08098).\\
 **Yuheng Ma**, Feiyu Jiang, Zifeng Zhao, Hanfang Yang, Yi Yu.\\
+- Feature-Subsampled and Shared-Embedding Ensemble Networks for Uplift Modeling.\\
+Shaofan Liu, Shikai Luo, **Yuheng Ma**, Xvdong Zheng, Qiang Sun.\\
 
 
 Services
 ---
 \* for outstanding reviewer
 
-I review for ICML (2024, 2025), NeurIPS (2024*,2025), AAAI (2025,2026), ICLR (2025, 2026), AISTATS (2025, 2026), TMLR, JMLR, Biometrika.
+Conference reviewer: ICML (2024, 2025, 2026*), NeurIPS (2024*, 2025), AAAI (2025, 2026), ICLR (2025, 2026), AISTATS (2025, 2026).\\
+Journal reviewer: JMLR, Biometrika, TMLR.
 
 
 
