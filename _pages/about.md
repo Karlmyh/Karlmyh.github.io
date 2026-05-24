@@ -10,13 +10,13 @@ redirect_from:
 
 Hi! I am an incoming faculty-track researcher at School of Statistics, East China Normal University.
 
-I have a broad interest in machine learning with a particular interest in trustworthy machine learning topics, such as privacy and stability. I have also begun to develop an interest in LLM post-training. I am always open to collaboration and chat if you are interested!
+I have a broad interest in machine learning with a particular interest in trustworthy machine learning topics, such as privacy and stability. I have also begun to develop an interest in LLM post-training. I am always open to collaboration and happy to chat if you are interested.
 
 Education
 ------
-- **2021.9-2026.6** Ph.D. in statistics at School of Statistics, Renmin University of China, advised by Professor Hanfang Yang.
-- **2024.9-2025.7** Visiting student at MBZUAI, hosted by Professor Qiang Sun.
-- **2017.9-2021.6** B.S. in statistics at Kuangyaming Honors School, Nanjing University.
+- <span class="education-date">2021.9-2026.6</span> Ph.D. in statistics at School of Statistics, Renmin University of China, advised by Professor Hanfang Yang.
+- <span class="education-date">2024.9-2025.7</span> Visiting student at MBZUAI, hosted by Professor Qiang Sun.
+- <span class="education-date">2017.9-2021.6</span> B.S. in statistics at Kuangyaming Honors School, Nanjing University.
 
 
 Honors
