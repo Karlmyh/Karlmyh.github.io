@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am an incoming faculty-track researcher at School of Statistics, East China Normal University.
+Hi! I am a (faculty track) young research fellow at School of Statistics, East China Normal University.
 
 I have a broad interest in machine learning with a particular interest in trustworthy machine learning topics, such as privacy and stability. I have also begun to develop an interest in LLM post-training. I am always open to collaboration and happy to chat if you are interested!
 
