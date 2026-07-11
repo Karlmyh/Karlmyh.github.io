@@ -19,15 +19,9 @@ Education
 - **2017.9-2021.6**: B.S. in statistics at Kuangyaming Honors School, Nanjing University.
 
 
-Honors
-------
-- Young Elite Scientists Sponsorship Program for Doctoral Students by the China Association for Science and Technology (中国科协青年人才托举工程博士生专项计划).
-- Zhong Jiaqing Paper Award from the Probability and Statistics Society of the Chinese Mathematical Society (中国数学会概率统计分会钟家庆论文奖).
-
-
 Contact
 ------
-- E-mail: yma at ruc.edu.cn, mayuhengkarl at gmail.com
+- E-mail: yhma at sfs.ecnu.edu.cn, yma at ruc.edu.cn, mayuhengkarl at gmail.com
 
 Last updated on {{ site.time | date: '%A, %B %e, %Y' }}
 

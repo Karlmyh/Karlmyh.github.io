@@ -21,7 +21,7 @@ Publications
 \* for equal contribution, \# for correspondence
 
 
-- Feature Bagging Provides Stability. *ICML 2026*.<br>
+- [Feature Bagging Provides Stability](https://openreview.net/pdf?id=XztZIs3k61). *ICML 2026*.<br>
 **Yuheng Ma**, Qiang Sun.
 - [PrAda-GAN: A Private Adaptive Generative Adversarial Network with Bayes Network Structure](https://arxiv.org/abs/2511.07997). *AAAI 2026*.<br>
 Ke Jia\*, **Yuheng Ma\***, Yang Li, Feifei Wang.
@@ -63,6 +63,13 @@ Services
 
 Conference reviewer: ICML (2024, 2025, 2026\*), NeurIPS (2024\*, 2025), AAAI (2025, 2026), ICLR (2025, 2026), AISTATS (2025, 2026).<br>
 Journal reviewer: JMLR, Biometrika, Bernoulli, TMLR.
+
+
+Honors
+---
+
+- Young Elite Scientists Sponsorship Program for Doctoral Students by the China Association for Science and Technology (中国科协青年人才托举工程博士生专项计划).
+- Zhong Jiaqing Paper Award from the Probability and Statistics Society of the Chinese Mathematical Society (中国数学会概率统计分会钟家庆论文奖).
 
 
 
