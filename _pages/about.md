@@ -12,6 +12,10 @@ Hi! I am a (faculty track) young research fellow at School of Statistics, East C
 
 I have a broad interest in machine learning with a particular interest in trustworthy machine learning topics, such as privacy and stability. I have also begun to develop an interest in LLM post-training. I am always open to collaboration and happy to chat if you are interested!
 
+Experience
+------
+- **2026.7-present**: (Faculty track) Young Research Fellow at School of Statistics, East China Normal University.
+
 Education
 ------
 - **2021.9-2026.6**: Ph.D. in statistics at School of Statistics, Renmin University of China, advised by Professor Hanfang Yang.
@@ -21,7 +25,7 @@ Education
 
 Contact
 ------
-- E-mail: yhma at sfs.ecnu.edu.cn, yma at ruc.edu.cn, mayuhengkarl at gmail.com
+- E-mail: yhma at sfs.ecnu.edu.cn, mayuhengkarl at gmail.com
 
 Last updated on {{ site.time | date: '%A, %B %e, %Y' }}
 
