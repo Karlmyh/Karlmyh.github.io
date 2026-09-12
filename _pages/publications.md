@@ -60,8 +60,8 @@ Services
 ---
 \* for outstanding reviewer
 
-Conference reviewer: ICML (2024, 2025, 2026\*), NeurIPS (2024\*, 2025), AAAI (2025, 2026), ICLR (2025, 2026), AISTATS (2025, 2026).<br>
-Journal reviewer: JMLR, Biometrika, Bernoulli, TMLR.
+Conference reviewer: ICML (2024, 2025, 2026\*), NeurIPS (2024\*, 2025, 2026), AAAI (2025, 2026), ICLR (2025, 2026), AISTATS (2025, 2026).<br>
+Journal reviewer: JMLR, Biometrika, Bernoulli, JBES, TMLR.
 
 
 Honors
