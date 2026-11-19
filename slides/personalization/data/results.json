@@ -1,0 +1,461 @@
+{
+  "k": [
+    2,
+    4,
+    6,
+    8,
+    10
+  ],
+  "rows": [
+    {
+      "method": "Random",
+      "group": "Reference",
+      "values": [
+        {
+          "mean": 2816.1,
+          "sd": 17.2
+        },
+        {
+          "mean": 2817.6,
+          "sd": 17.8
+        },
+        {
+          "mean": 2817.1,
+          "sd": 15.8
+        },
+        {
+          "mean": 2816.6,
+          "sd": 15.6
+        },
+        {
+          "mean": 2817.2,
+          "sd": 13.4
+        }
+      ]
+    },
+    {
+      "method": "BTN²",
+      "group": "Separate",
+      "values": [
+        {
+          "mean": 2419.6,
+          "sd": 25.9
+        },
+        {
+          "mean": 2018.3,
+          "sd": 27.9
+        },
+        {
+          "mean": 1708.8,
+          "sd": 18.9
+        },
+        {
+          "mean": 1452.1,
+          "sd": 18.0
+        },
+        {
+          "mean": 1207.0,
+          "sd": 23.2
+        }
+      ]
+    },
+    {
+      "method": "LinUCB",
+      "group": "Separate",
+      "values": [
+        {
+          "mean": 2563.6,
+          "sd": 25.5
+        },
+        {
+          "mean": 2312.0,
+          "sd": 33.4
+        },
+        {
+          "mean": 2073.1,
+          "sd": 27.7
+        },
+        {
+          "mean": 1825.1,
+          "sd": 45.3
+        },
+        {
+          "mean": 1572.2,
+          "sd": 54.2
+        }
+      ]
+    },
+    {
+      "method": "LinTS",
+      "group": "Separate",
+      "values": [
+        {
+          "mean": 2561.1,
+          "sd": 22.7
+        },
+        {
+          "mean": 2314.5,
+          "sd": 24.3
+        },
+        {
+          "mean": 2074.5,
+          "sd": 23.4
+        },
+        {
+          "mean": 1826.0,
+          "sd": 27.1
+        },
+        {
+          "mean": 1560.9,
+          "sd": 19.0
+        }
+      ]
+    },
+    {
+      "method": "BTN²",
+      "group": "Oracle",
+      "values": [
+        {
+          "mean": 2254.2,
+          "sd": 22.2
+        },
+        {
+          "mean": 1746.2,
+          "sd": 18.5
+        },
+        {
+          "mean": 1529.2,
+          "sd": 14.9
+        },
+        {
+          "mean": 1351.2,
+          "sd": 15.7
+        },
+        {
+          "mean": 1167.7,
+          "sd": 8.2
+        }
+      ]
+    },
+    {
+      "method": "LinUCB",
+      "group": "Oracle",
+      "values": [
+        {
+          "mean": 2516.3,
+          "sd": 25.4
+        },
+        {
+          "mean": 2187.0,
+          "sd": 29.1
+        },
+        {
+          "mean": 1907.1,
+          "sd": 31.4
+        },
+        {
+          "mean": 1626.6,
+          "sd": 23.4
+        },
+        {
+          "mean": 1346.1,
+          "sd": 16.4
+        }
+      ]
+    },
+    {
+      "method": "LinTS",
+      "group": "Oracle",
+      "values": [
+        {
+          "mean": 2515.4,
+          "sd": 25.4
+        },
+        {
+          "mean": 2181.6,
+          "sd": 31.7
+        },
+        {
+          "mean": 1900.8,
+          "sd": 30.8
+        },
+        {
+          "mean": 1623.3,
+          "sd": 19.8
+        },
+        {
+          "mean": 1343.2,
+          "sd": 12.6
+        }
+      ]
+    },
+    {
+      "method": "BTN²",
+      "group": "Unknown",
+      "values": [
+        {
+          "mean": 2285.3,
+          "sd": 28.3
+        },
+        {
+          "mean": 1797.4,
+          "sd": 35.2
+        },
+        {
+          "mean": 1572.7,
+          "sd": 28.1
+        },
+        {
+          "mean": 1381.5,
+          "sd": 16.0
+        },
+        {
+          "mean": 1192.6,
+          "sd": 8.9
+        }
+      ]
+    },
+    {
+      "method": "CLUB",
+      "group": "Unknown",
+      "values": [
+        {
+          "mean": 2554.4,
+          "sd": 21.5
+        },
+        {
+          "mean": 2310.1,
+          "sd": 23.8
+        },
+        {
+          "mean": 2070.4,
+          "sd": 23.3
+        },
+        {
+          "mean": 1812.1,
+          "sd": 20.5
+        },
+        {
+          "mean": 1549.4,
+          "sd": 21.9
+        }
+      ]
+    },
+    {
+      "method": "SCLUB",
+      "group": "Unknown",
+      "values": [
+        {
+          "mean": 2571.9,
+          "sd": 23.4
+        },
+        {
+          "mean": 2326.1,
+          "sd": 23.3
+        },
+        {
+          "mean": 2078.8,
+          "sd": 20.3
+        },
+        {
+          "mean": 1819.0,
+          "sd": 16.6
+        },
+        {
+          "mean": 1547.6,
+          "sd": 16.0
+        }
+      ]
+    },
+    {
+      "method": "CAB",
+      "group": "Unknown",
+      "values": [
+        {
+          "mean": 2597.0,
+          "sd": 25.2
+        },
+        {
+          "mean": 2271.1,
+          "sd": 36.9
+        },
+        {
+          "mean": 1958.3,
+          "sd": 31.0
+        },
+        {
+          "mean": 1631.5,
+          "sd": 29.1
+        },
+        {
+          "mean": 1309.6,
+          "sd": 15.7
+        }
+      ]
+    },
+    {
+      "method": "COFIBA",
+      "group": "Unknown",
+      "values": [
+        {
+          "mean": 2597.7,
+          "sd": 24.7
+        },
+        {
+          "mean": 2274.6,
+          "sd": 34.2
+        },
+        {
+          "mean": 1961.3,
+          "sd": 30.3
+        },
+        {
+          "mean": 1639.7,
+          "sd": 28.7
+        },
+        {
+          "mean": 1314.0,
+          "sd": 15.1
+        }
+      ]
+    },
+    {
+      "method": "RCLUMB",
+      "group": "Unknown",
+      "values": [
+        {
+          "mean": 2853.3,
+          "sd": 22.6
+        },
+        {
+          "mean": 2770.9,
+          "sd": 26.1
+        },
+        {
+          "mean": 2742.8,
+          "sd": 24.8
+        },
+        {
+          "mean": 2724.3,
+          "sd": 28.4
+        },
+        {
+          "mean": 2700.3,
+          "sd": 30.2
+        }
+      ]
+    },
+    {
+      "method": "RSCLUMB",
+      "group": "Unknown",
+      "values": [
+        {
+          "mean": 2851.1,
+          "sd": 22.5
+        },
+        {
+          "mean": 2770.6,
+          "sd": 25.7
+        },
+        {
+          "mean": 2745.1,
+          "sd": 22.3
+        },
+        {
+          "mean": 2723.9,
+          "sd": 23.5
+        },
+        {
+          "mean": 2710.5,
+          "sd": 28.5
+        }
+      ]
+    },
+    {
+      "method": "UniCLUB-E",
+      "group": "Unknown",
+      "values": [
+        {
+          "mean": 2618.7,
+          "sd": 23.5
+        },
+        {
+          "mean": 2319.6,
+          "sd": 29.6
+        },
+        {
+          "mean": 2031.0,
+          "sd": 27.8
+        },
+        {
+          "mean": 1733.3,
+          "sd": 19.5
+        },
+        {
+          "mean": 1421.5,
+          "sd": 14.6
+        }
+      ]
+    },
+    {
+      "method": "UniCLUB-F",
+      "group": "Unknown",
+      "values": [
+        {
+          "mean": 2815.6,
+          "sd": 17.3
+        },
+        {
+          "mean": 2821.1,
+          "sd": 17.1
+        },
+        {
+          "mean": 2819.4,
+          "sd": 14.2
+        },
+        {
+          "mean": 2817.3,
+          "sd": 15.6
+        },
+        {
+          "mean": 2816.3,
+          "sd": 16.2
+        }
+      ]
+    },
+    {
+      "method": "M-CNB",
+      "group": "Unknown",
+      "values": [
+        {
+          "mean": 2478.6,
+          "sd": 26.9
+        },
+        {
+          "mean": 2082.0,
+          "sd": 28.1
+        },
+        {
+          "mean": 1769.4,
+          "sd": 31.8
+        },
+        {
+          "mean": 1489.6,
+          "sd": 21.0
+        },
+        {
+          "mean": 1218.1,
+          "sd": 17.1
+        }
+      ]
+    }
+  ],
+  "rounds": 2000,
+  "seeds": 50,
+  "dispersion": "sample SD",
+  "selection": "Same matched seeds select and report; in-sample",
+  "sources": [
+    "6ae2ac52837631695a955ea1/main.tex:469–521",
+    "68655a547e0c586a304549a7/sections/experiments.tex: All Users"
+  ]
+}

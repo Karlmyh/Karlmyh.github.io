@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -35 520 470" role="img">
+<title>Exp35: true groups; 18 users</title>
+<desc>Exact seed 35000 screening edges and stored clique partition. Shapes show true groups; colours and dashed outlines show detected groups. Node positions are identical across figures.</desc>
+<line x1="92.152" y1="109.200" x2="135.800" y2="84.000" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="92.152" y1="109.200" x2="179.448" y2="109.200" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="92.152" y1="109.200" x2="92.152" y2="159.600" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="92.152" y1="109.200" x2="135.800" y2="184.800" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="92.152" y1="109.200" x2="179.448" y2="159.600" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="135.800" y1="84.000" x2="179.448" y2="109.200" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="135.800" y1="84.000" x2="92.152" y2="159.600" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="135.800" y1="84.000" x2="135.800" y2="184.800" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="135.800" y1="84.000" x2="179.448" y2="159.600" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="179.448" y1="109.200" x2="92.152" y2="159.600" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="179.448" y1="109.200" x2="135.800" y2="184.800" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="179.448" y1="109.200" x2="179.448" y2="159.600" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="92.152" y1="159.600" x2="135.800" y2="184.800" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="92.152" y1="159.600" x2="179.448" y2="159.600" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="135.800" y1="184.800" x2="179.448" y2="159.600" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="340.552" y1="109.200" x2="384.200" y2="84.000" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="340.552" y1="109.200" x2="427.848" y2="109.200" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="340.552" y1="109.200" x2="340.552" y2="159.600" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="340.552" y1="109.200" x2="384.200" y2="184.800" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="340.552" y1="109.200" x2="427.848" y2="159.600" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="384.200" y1="84.000" x2="427.848" y2="109.200" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="384.200" y1="84.000" x2="340.552" y2="159.600" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="384.200" y1="84.000" x2="384.200" y2="184.800" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="384.200" y1="84.000" x2="427.848" y2="159.600" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="427.848" y1="109.200" x2="340.552" y2="159.600" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="427.848" y1="109.200" x2="384.200" y2="184.800" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="427.848" y1="109.200" x2="427.848" y2="159.600" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="340.552" y1="159.600" x2="384.200" y2="184.800" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="340.552" y1="159.600" x2="427.848" y2="159.600" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="384.200" y1="184.800" x2="427.848" y2="159.600" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="216.352" y1="296.400" x2="260.000" y2="271.200" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="216.352" y1="296.400" x2="303.648" y2="296.400" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="216.352" y1="296.400" x2="216.352" y2="346.800" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="216.352" y1="296.400" x2="260.000" y2="372.000" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="216.352" y1="296.400" x2="303.648" y2="346.800" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="260.000" y1="271.200" x2="303.648" y2="296.400" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="260.000" y1="271.200" x2="216.352" y2="346.800" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="260.000" y1="271.200" x2="260.000" y2="372.000" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="260.000" y1="271.200" x2="303.648" y2="346.800" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="303.648" y1="296.400" x2="216.352" y2="346.800" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="303.648" y1="296.400" x2="260.000" y2="372.000" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="303.648" y1="296.400" x2="303.648" y2="346.800" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="216.352" y1="346.800" x2="260.000" y2="372.000" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="216.352" y1="346.800" x2="303.648" y2="346.800" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<line x1="260.000" y1="372.000" x2="303.648" y2="346.800" stroke="#667b9e" stroke-width="1.4" opacity="0.40"/>
+<g fill="none" stroke="#4263eb" stroke-width="1.8" stroke-dasharray="6 5"><circle cx="135.8" cy="134.4" r="77.4"/></g>
+<g fill="none" stroke="#0b9687" stroke-width="1.8" stroke-dasharray="6 5"><circle cx="384.2" cy="134.4" r="77.4"/></g>
+<g fill="none" stroke="#c98335" stroke-width="1.8" stroke-dasharray="6 5"><circle cx="260.0" cy="321.6" r="77.4"/></g>
+<g fill="white" stroke="#4263eb" stroke-width="2"><circle cx="92.152" cy="109.200" r="13"/></g>
+<text x="92.152" y="109.200" text-anchor="middle" dominant-baseline="central" fill="#4263eb" font-family="Arial,sans-serif" font-size="15" font-weight="700">1</text>
+<g fill="white" stroke="#4263eb" stroke-width="2"><circle cx="135.800" cy="84.000" r="13"/></g>
+<text x="135.800" y="84.000" text-anchor="middle" dominant-baseline="central" fill="#4263eb" font-family="Arial,sans-serif" font-size="15" font-weight="700">2</text>
+<g fill="white" stroke="#4263eb" stroke-width="2"><circle cx="179.448" cy="109.200" r="13"/></g>
+<text x="179.448" y="109.200" text-anchor="middle" dominant-baseline="central" fill="#4263eb" font-family="Arial,sans-serif" font-size="15" font-weight="700">3</text>
+<g fill="white" stroke="#4263eb" stroke-width="2"><circle cx="92.152" cy="159.600" r="13"/></g>
+<text x="92.152" y="159.600" text-anchor="middle" dominant-baseline="central" fill="#4263eb" font-family="Arial,sans-serif" font-size="15" font-weight="700">4</text>
+<g fill="white" stroke="#4263eb" stroke-width="2"><circle cx="135.800" cy="184.800" r="13"/></g>
+<text x="135.800" y="184.800" text-anchor="middle" dominant-baseline="central" fill="#4263eb" font-family="Arial,sans-serif" font-size="15" font-weight="700">5</text>
+<g fill="white" stroke="#4263eb" stroke-width="2"><circle cx="179.448" cy="159.600" r="13"/></g>
+<text x="179.448" y="159.600" text-anchor="middle" dominant-baseline="central" fill="#4263eb" font-family="Arial,sans-serif" font-size="15" font-weight="700">6</text>
+<g fill="white" stroke="#0b9687" stroke-width="2"><rect x="327.552" y="96.200" width="26" height="26" rx="3"/></g>
+<text x="340.552" y="109.200" text-anchor="middle" dominant-baseline="central" fill="#0b9687" font-family="Arial,sans-serif" font-size="15" font-weight="700">7</text>
+<g fill="white" stroke="#0b9687" stroke-width="2"><rect x="371.200" y="71.000" width="26" height="26" rx="3"/></g>
+<text x="384.200" y="84.000" text-anchor="middle" dominant-baseline="central" fill="#0b9687" font-family="Arial,sans-serif" font-size="15" font-weight="700">8</text>
+<g fill="white" stroke="#0b9687" stroke-width="2"><rect x="414.848" y="96.200" width="26" height="26" rx="3"/></g>
+<text x="427.848" y="109.200" text-anchor="middle" dominant-baseline="central" fill="#0b9687" font-family="Arial,sans-serif" font-size="15" font-weight="700">9</text>
+<g fill="white" stroke="#0b9687" stroke-width="2"><rect x="327.552" y="146.600" width="26" height="26" rx="3"/></g>
+<text x="340.552" y="159.600" text-anchor="middle" dominant-baseline="central" fill="#0b9687" font-family="Arial,sans-serif" font-size="15" font-weight="700">10</text>
+<g fill="white" stroke="#0b9687" stroke-width="2"><rect x="371.200" y="171.800" width="26" height="26" rx="3"/></g>
+<text x="384.200" y="184.800" text-anchor="middle" dominant-baseline="central" fill="#0b9687" font-family="Arial,sans-serif" font-size="15" font-weight="700">11</text>
+<g fill="white" stroke="#0b9687" stroke-width="2"><rect x="414.848" y="146.600" width="26" height="26" rx="3"/></g>
+<text x="427.848" y="159.600" text-anchor="middle" dominant-baseline="central" fill="#0b9687" font-family="Arial,sans-serif" font-size="15" font-weight="700">12</text>
+<g fill="white" stroke="#c98335" stroke-width="2"><path d="M 216.352,279.400 L 233.352,296.400 216.352,313.400 199.352,296.400 Z"/></g>
+<text x="216.352" y="296.400" text-anchor="middle" dominant-baseline="central" fill="#c98335" font-family="Arial,sans-serif" font-size="15" font-weight="700">13</text>
+<g fill="white" stroke="#c98335" stroke-width="2"><path d="M 260.000,254.200 L 277.000,271.200 260.000,288.200 243.000,271.200 Z"/></g>
+<text x="260.000" y="271.200" text-anchor="middle" dominant-baseline="central" fill="#c98335" font-family="Arial,sans-serif" font-size="15" font-weight="700">14</text>
+<g fill="white" stroke="#c98335" stroke-width="2"><path d="M 303.648,279.400 L 320.648,296.400 303.648,313.400 286.648,296.400 Z"/></g>
+<text x="303.648" y="296.400" text-anchor="middle" dominant-baseline="central" fill="#c98335" font-family="Arial,sans-serif" font-size="15" font-weight="700">15</text>
+<g fill="white" stroke="#c98335" stroke-width="2"><path d="M 216.352,329.800 L 233.352,346.800 216.352,363.800 199.352,346.800 Z"/></g>
+<text x="216.352" y="346.800" text-anchor="middle" dominant-baseline="central" fill="#c98335" font-family="Arial,sans-serif" font-size="15" font-weight="700">16</text>
+<g fill="white" stroke="#c98335" stroke-width="2"><path d="M 260.000,355.000 L 277.000,372.000 260.000,389.000 243.000,372.000 Z"/></g>
+<text x="260.000" y="372.000" text-anchor="middle" dominant-baseline="central" fill="#c98335" font-family="Arial,sans-serif" font-size="15" font-weight="700">17</text>
+<g fill="white" stroke="#c98335" stroke-width="2"><path d="M 303.648,329.800 L 320.648,346.800 303.648,363.800 286.648,346.800 Z"/></g>
+<text x="303.648" y="346.800" text-anchor="middle" dominant-baseline="central" fill="#c98335" font-family="Arial,sans-serif" font-size="15" font-weight="700">18</text>
+</svg>
